@@ -7,7 +7,7 @@ def encode(number_string):
             password_out = password_out + str(int(char) - 7) # create a way to handle cases where the number wraps around
     return password_out
 
-def decode():
+def decode(): # the decode function goes here
     pass
 
 def main():
