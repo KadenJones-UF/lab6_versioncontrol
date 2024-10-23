@@ -1,3 +1,5 @@
+# Kaden Jones
+
 def encode(number_string):
     password_out = ""
     for char in number_string:
